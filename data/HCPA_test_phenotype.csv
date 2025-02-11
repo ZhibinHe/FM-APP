@@ -1,0 +1,18 @@
+﻿0,1
+rsptc_no,Total Cholesterol: -9 for QNS(quantity not sufficient); Units=mg/dL
+ls_ureanitrogen,Urea Nitrogen: -9 for QNS(quantity not sufficient); Units=mg/dL
+bp1_alk,"Alk Phos, Total: -9 for QNS(quantity not sufficient); Units=IU/L"
+ls_ast,AST (SGOT): -9 for QNS(quantity not sufficient); Units=IU/L
+creatinine,Creatinine: 99999 for QNS(quantity not sufficient); Units=mg/dL
+nih_totalcogcomp_unadjusted,Total Cognition Composite Score unadjusted
+auc_200,Area Under the Curve for Delay Amount $200
+er40_d_fc,ER40 Correct Female Identifications
+er40_d_angrt,Median Response Time for ER40 Correct Anger Identifications (ms)
+er40_d_fearrt,Median Response Time for ER40 Correct Fear Identifications (ms)
+nffi_13,13. I am intrigued by the patterns I find in art and nature. 1= 'Strongly Disagree'; 2= 'Disagree'; 3= 'Neutral'; 4= 'Agree'; 5= 'Strongly Agree'
+nffi_16,16. I rarely feel lonely or blue.  1= 'Strongly Disagree'; 2= 'Disagree'; 3= 'Neutral'; 4= 'Agree'; 5= 'Strongly Agree'
+nih_patterncomp_unadjusted,Uncorrected Standard score for the Pattern Comparison Processing Speed Instrument (Inst) specified
+nih_picseq_computed,"Computed Score: an ""interim"" calculation is required to go from the raw score to the normative score for the Picture Sequence Memory Test  Instrument (Inst) specified"
+pea_ravlt_sd_trial_iv_tc,RAVLT or RAVLT2 Short Delay Trial IV Raw Score
+soc247,"Emotion:SOC247:In the past month, please describe how often...:I feel like I'm part of a group of friends. 1=Never; 2=Rarely; 3=Sometimes; 4=Usually; 5=Always"
+tmtb_raw,Trail B

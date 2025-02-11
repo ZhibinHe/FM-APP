@@ -1,0 +1,42 @@
+﻿0,1
+interview_age,age in months
+rsptest_no,Testosterone: -9 for QNS(quantity not sufficient); units=ng/ml
+ls_alt,ALT (SGPT): -9 for QNS(quantity not sufficient); Units=IU/L
+ls_bilirubin,Total Bilirubin: -9 for QNS(quantity not sufficient); Units=mg/dL
+a1crs,HbA1c%
+nih_crycogcomp_unadjusted,Crystal Cognition Composite Score unadjusted
+sv_3yr_200,"Subjective Value / Indifference Point, Amount $200 in 3yr Delay"
+er40_c_mcrt,ER40 Correct Male Identifications Median Response Time (ms)
+er40_c_fear,ER40 Correct Fear Identifications
+er40_d_haprt,Median Response Time for ER40 Correct Happy Identifications (ms)
+er40_d_noert,Median Response Time for ER40 Correct No Emotion Identifications (ms)
+er40_d_sadrt,Median Response Time for ER40 Correct Sad Identifications (ms)
+avg_rec_rt,In scanner: Recall: average ms to button press
+nih_flanker_computed,"Computed Score: an ""interim"" calculation is required to go from the raw score to the normative score for Flanker Instrument (Inst) specified"
+delayed_recall,DELAYED RECALL (_/5)
+mull_el_rs2,LANGUAGE - Repeat (_/2)
+nffi_14,14. Some people think I'm selfish and egotistical. 1= 'Strongly Disagree'; 2= 'Disagree'; 3= 'Neutral'; 4= 'Agree'; 5= 'Strongly Agree'
+nffi_37,"37. I am a cheerful, high-spirited person. 1= 'Strongly Disagree'; 2= 'Disagree'; 3= 'Neutral'; 4= 'Agree'; 5= 'Strongly Agree'"
+nffi_53,53. I have a lot of intellectual curiosity. 1= 'Strongly Disagree'; 2= 'Disagree'; 3= 'Neutral'; 4= 'Agree'; 5= 'Strongly Agree'
+nih_patterncomp_ageadjusted,Age Corrected Standard Score for Pattern Comparison Processing Speed Instrument (Inst) specified
+psqpi7_1,"7. During the past month, how often have you taken medicine (prescribed or 'over the counter') to help you sleep? 1= Not during the past month ; 2= Less than once a week ; 3= Once or twice a week ; 4= Three or more times a week"
+pea_ravlt_sd_trial_iii_tc,RAVLT or RAVLT2 Short Delay Trial III Raw Score
+pea_ravlt_sd_trial_v_tc,RAVLT or RAVLT2 Short Delay Trial V Raw Score
+satisfaction7,Do you think you would like to come back in two years to do everything again? 1 = I wouldn't want to do it again ; 2 = It would be alright ; 3 = I would probably like to come back ; 4 = I would like to come back ; 5 = I would be really excited to come back
+rsptc_no,Total Cholesterol: -9 for QNS(quantity not sufficient); Units=mg/dL
+ls_ureanitrogen,Urea Nitrogen: -9 for QNS(quantity not sufficient); Units=mg/dL
+bp1_alk,"Alk Phos, Total: -9 for QNS(quantity not sufficient); Units=IU/L"
+ls_ast,AST (SGOT): -9 for QNS(quantity not sufficient); Units=IU/L
+creatinine,Creatinine: 99999 for QNS(quantity not sufficient); Units=mg/dL
+nih_totalcogcomp_unadjusted,Total Cognition Composite Score unadjusted
+auc_200,Area Under the Curve for Delay Amount $200
+er40_d_fc,ER40 Correct Female Identifications
+er40_d_angrt,Median Response Time for ER40 Correct Anger Identifications (ms)
+er40_d_fearrt,Median Response Time for ER40 Correct Fear Identifications (ms)
+nffi_13,13. I am intrigued by the patterns I find in art and nature. 1= 'Strongly Disagree'; 2= 'Disagree'; 3= 'Neutral'; 4= 'Agree'; 5= 'Strongly Agree'
+nffi_16,16. I rarely feel lonely or blue.  1= 'Strongly Disagree'; 2= 'Disagree'; 3= 'Neutral'; 4= 'Agree'; 5= 'Strongly Agree'
+nih_patterncomp_unadjusted,Uncorrected Standard score for the Pattern Comparison Processing Speed Instrument (Inst) specified
+nih_picseq_computed,"Computed Score: an ""interim"" calculation is required to go from the raw score to the normative score for the Picture Sequence Memory Test  Instrument (Inst) specified"
+pea_ravlt_sd_trial_iv_tc,RAVLT or RAVLT2 Short Delay Trial IV Raw Score
+soc247,"Emotion:SOC247:In the past month, please describe how often...:I feel like I'm part of a group of friends. 1=Never; 2=Rarely; 3=Sometimes; 4=Usually; 5=Always"
+tmtb_raw,Trail B
